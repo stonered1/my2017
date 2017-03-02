@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomButton/CustomButton.iml" filepath="$PROJECT_DIR$/CustomButton/CustomButton.iml" />
       <module fileurl="file://$PROJECT_DIR$/My.iml" filepath="$PROJECT_DIR$/My.iml" />
       <module fileurl="file://$PROJECT_DIR$/sortListView/sortListView.iml" filepath="$PROJECT_DIR$/sortListView/sortListView.iml" />
     </modules>

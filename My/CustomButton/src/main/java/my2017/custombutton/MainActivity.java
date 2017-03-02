@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
                         Log.i("stone", "testBtn-onTouch-ACTION_UP...");
                         break;
                     default:break;
-
                 }
                 return false;
             }
